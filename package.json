@@ -1,0 +1,14 @@
+{
+  "name": "npv2k1-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "npv2k1",
+  "license": "ISC"
+}
